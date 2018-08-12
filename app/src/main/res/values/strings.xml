@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tapplent_demo_TextView</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_information">Your Information</string>
+    <string name="initial_name">Initials</string>
+    <string name="send_button">Send</string>
+    <string name="group_name">Enter the Group Name</string>
+</resources>
